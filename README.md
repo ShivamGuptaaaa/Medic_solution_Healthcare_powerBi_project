@@ -5,6 +5,9 @@ This project demonstrates my ability to create a fully interactive and insightfu
 
 ---
 
+### **Dashboard Snapshot**  
+![Dashboard Preview]([assets/dashboard-preview.png](https://github.com/ShivamGuptaaaa/Medic_solution_Healthcare_powerBi_project/blob/main/PowerBi%20Dashboard.pdf))
+
 ## **What I Did**  
 
 ### **1. Data Preparation**  
