@@ -5,10 +5,6 @@ This project demonstrates my ability to create a fully interactive and insightfu
 
 ---
 
-### **Dashboard Snapshot**  
-(PowerBi Dashboard.pdf)
-
-
 ## **What I Did**  
 
 ### **1. Data Preparation**  
@@ -36,7 +32,16 @@ This project demonstrates my ability to create a fully interactive and insightfu
 - **Tools**: Power BI, DAX, Excel  
 - **Techniques**: Data Cleaning, Data Modeling, Visualization, Dashboard Design  
 - **Applications**: Business Decision-Making, Performance Analysis  
-  
+
+---
+
+## **Preview**  
+📊 **Interactive Dashboard**: [Provide Link if Available]  
+
+### **Dashboard Snapshot**  
+![Dashboard Preview](PowerBi Dashboard.png)  
+
+> *This snapshot represents a key part of the interactive dashboard, showcasing visual insights derived from the dataset.*
 
 ---
 
