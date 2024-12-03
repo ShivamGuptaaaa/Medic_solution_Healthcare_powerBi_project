@@ -34,12 +34,10 @@ This project demonstrates my ability to create a fully interactive and insightfu
 - **Applications**: Business Decision-Making, Performance Analysis  
 
 ---
-
-## **Preview**  
-📊 **Interactive Dashboard**: [Provide Link if Available]  
+ 
 
 ### **Dashboard Snapshot**  
-![Dashboard Preview](PowerBi Dashboard.png)  
+![Dashboard Preview]([PowerBi Dashboard.png](https://github.com/ShivamGuptaaaa/Medic_solution_Healthcare_powerBi_project/blob/91f2281e3d204f7d0e1df3b3ac285ff1167889ca/PowerBi%20Dashboard.png))  
 
 > *This snapshot represents a key part of the interactive dashboard, showcasing visual insights derived from the dataset.*
 
