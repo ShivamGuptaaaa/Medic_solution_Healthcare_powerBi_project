@@ -6,7 +6,7 @@ This project demonstrates my ability to create a fully interactive and insightfu
 ---
 
 ### **Dashboard Snapshot**  
-![Dashboard Preview](PowerBi Dashboard.pdf)
+(PowerBi Dashboard.pdf)
 
 
 ## **What I Did**  
